@@ -67,3 +67,12 @@ button:focus-visible {
   }
 } */
 
+.card {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+}
